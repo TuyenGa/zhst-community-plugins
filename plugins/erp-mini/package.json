@@ -24,7 +24,7 @@
     "@astrojs/react": "7.0.1",
     "@types/node": "24.10.1",
     "@types/react": "19.3.0",
-    "astro": "7.3.5",
+    "astro": "7.3.6",
     "emdash": "1.2.0",
     "kysely": "0.29.6",
     "react": "19.3.0",
